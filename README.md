@@ -2,6 +2,10 @@
 
 aka. **Combat Test Snapshot 8c** Fabric Mod List
 
+> [!TIP]
+> Instead of downloading all mods one-by-one, you can now download all of them as a zip file!
+> https://github.com/nexia-cts/cts-mod-list/raw/performance/all-performance-mods.zip
+
 ## **Information**
 
 ### This is the **Performance** branch
