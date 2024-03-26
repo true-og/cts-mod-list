@@ -4,6 +4,9 @@
 
 Download link: https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.4-0.6.0/lithium-fabric-mc1.16.4-0.6.0.jar
 
+> [!IMPORTANT]
+> Please use jar file provided in GitHub, as it has been tweaked to be able to run on CTS.
+
 Source code: https://github.com/jellysquid3/lithium-fabric
 
 Tags: **Optimization**
