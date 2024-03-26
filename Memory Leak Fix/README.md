@@ -10,7 +10,7 @@ Tags: **Optimization**
 
 Dependencies: **none**
 
-Mod License: **LGPL-2.1-only**
+Mod License: **LGPL-2.1**
 
 Client side: **Compatible**
 

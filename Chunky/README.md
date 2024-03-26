@@ -8,9 +8,9 @@ Source code: https://github.com/pop4959/Chunky
 
 Tags: **Optimization**, **Utility**, **World Generation**
 
-Dependencies: [Fabric API](https://github.com/rizecookey/fabric/releases/download/0.25.0%2B1.16.combat/fabric-api-0.25.0+1.16.combat.jar)
+Dependencies: [Fabric API](https://github.com/nexia-cts/cts-mod-list/tree/qol/Fabric%20API)
 
-Mod License: **GPL-3.0-only**
+Mod License: **GPL-3.0**
 
 Client side: **Compatible**
 
